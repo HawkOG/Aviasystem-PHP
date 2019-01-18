@@ -1,0 +1,70 @@
+#cardx{
+    display:none;padding:0 25px;width:500px;height:250px;background:#06038d;left:0;right:0;margin:0 auto;position:absolute;z-index:999999;box-shadow:0 0 5px #ccc;box-shadow:0 0 15px rgb(197, 197, 197);border-radius:10px;
+
+}
+.btnss{
+    border:0;margin-top:20px;background:#fff;border-radius:5px;padding:10px;width:450px;z-index:999999;height:40px;
+}
+
+label{
+    text-align:left;color:#fff;
+}
+
+
+input[type="text"], input[type="password"], input[type="email"], select {
+    height: 2.75em;
+    background: #fff;
+}
+
+#closebtn{
+    float:right;
+    background:rgba(138, 1, 88, 1);
+    border:0;
+    padding:5px 10px;
+    color:#fff;
+}
+
+#messagefield{
+    resize:vertical;
+}
+
+#nameField, #messageField{
+    background:rgba(2.4, 1.2, 55.3,0.9);
+}
+
+
+::-webkit-input-placeholder{
+    color:#fff;
+}
+
+.reviewSend{
+    
+    background:rgba(2.4, 1.2, 55.3,0.9);
+    width:100%;
+    border-radius:0;
+    margin-top:20px;
+}
+
+.orderTickets{
+    display:block;
+    background:#06038d;
+    padding:10px 15px;
+    width:250px;
+    margin:0 auto;
+    border-radius:100px;
+    color:#fff;
+}
+
+.btn-rev{
+    display:block;
+    background:rgba(198,0,126,.9);
+    padding:10px 15px;
+    width:100%;
+    margin:20px auto;
+    color:#fff;
+    border:none;
+}
+
+.reviewBtn{
+	
+}
